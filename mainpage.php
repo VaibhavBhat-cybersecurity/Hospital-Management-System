@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="english">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,7 +56,9 @@
 <div class="navbar">
     <h1>Hospital Management System</h1>
     <div class="search-bar">
-        <input type="text" placeholder="Search...">
+        <label>
+            <input type="text" placeholder="Search...">
+        </label>
     </div>
 </div>
 
